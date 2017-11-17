@@ -1,0 +1,33 @@
+h1{
+	color:#fff;
+	background-color:#423491;
+	height: 10%;
+}
+
+p,#controls{
+	font-size:14px;
+	font-family: Arial;
+}
+
+#lookup{
+	background-color: #06a33e;
+	border:10px #000000;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: white;
+}
+
+#lookup:hover{
+	background-color: #29e86c;
+}
+
+input{
+    font-size: 15px;
+    padding: 4px;
+    border-radius: 5px;
+    border-color: black;
+}
+
+h2{
+	color:teal;
+}
